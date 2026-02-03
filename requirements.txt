@@ -1,0 +1,10 @@
+# dy-download requirements
+
+# HTTP requests
+requests>=2.31.0
+
+# Audio/Video processing
+ffmpeg-python>=0.2.0
+
+# Aliyun DashScope API
+dashscope>=1.20.0
